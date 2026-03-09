@@ -34,6 +34,3 @@ popularity, audience ratings, and language diversity.
 ## 👤 Author
 **Aditya Kumar** — [LinkedIn](#) | [Kaggle](#)
 ```
-
-```
-   python  pandas  data-analysis  eda  netflix  seaborn  matplotlib  data-science
